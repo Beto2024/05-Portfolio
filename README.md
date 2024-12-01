@@ -1,3 +1,11 @@
+Projeto de Portfólio Pessoal
+
+1.Configuração Inicial do Projeto
+Projeto React utilizando o Vite. Utilizando o React Router Dom.
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
